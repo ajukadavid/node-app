@@ -23,4 +23,7 @@ router.get('/:id', (req, res) => {
     }
 })
 
+//create a new user
+
+router.post('')
 module.exports = router
